@@ -1,5 +1,6 @@
-<a href="https://telegram.dog/botcodes123"><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram"></a>
-<a href="https://telegram.dog/botCodes_Discussion"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram"></a>
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://telegram.dog/botcodes123)
+
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://telegram.dog/botCodes_Discussion)
 
 ---
 
