@@ -1,0 +1,20 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Telegram Bot Created Using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index.js"
+  },
+  "author": "Arman idrisi",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.12.2"
+  }
+}
